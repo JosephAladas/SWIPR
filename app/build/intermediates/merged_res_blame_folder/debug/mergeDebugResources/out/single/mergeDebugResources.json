@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.talenttinder.app-debug-31:/drawable_profile_placeholder.jpeg.flat",
+        "source": "com.example.talenttinder.app-main-33:/drawable/profile_placeholder.jpeg"
+    },
+    {
+        "merged": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-debug-31:/drawable_sarah_johnson.jpg.flat",
+        "source": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-main-33:/drawable/sarah_johnson.jpg"
+    },
+    {
+        "merged": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-debug-31:/drawable_mike_chenn.jpg.flat",
+        "source": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-main-33:/drawable/mike_chenn.jpg"
+    },
+    {
+        "merged": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-debug-31:/drawable_emma_rodriguez.jpg.flat",
+        "source": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-main-33:/drawable/emma_rodriguez.jpg"
+    },
+    {
+        "merged": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-debug-31:/drawable_michael_chen.jpg.flat",
+        "source": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-main-33:/drawable/michael_chen.jpg"
+    },
+    {
+        "merged": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-debug-31:/drawable_sophia_patel.webp.flat",
+        "source": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-main-33:/drawable/sophia_patel.webp"
+    },
+    {
+        "merged": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-debug-31:/drawable_david_kim.jpg.flat",
+        "source": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-main-33:/drawable/david_kim.jpg"
+    },
+    {
+        "merged": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/josephaladas/.gradle/daemon/8.11.1/com.example.talenttinder.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]

@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color accent
+color accent_dark
+color background
+color black
+color error
+color primary
+color primary_dark
+color surface
+color white
+drawable david_kim
+drawable emma_rodriguez
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable michael_chen
+drawable profile_placeholder
+drawable sarah_johnson
+drawable sophia_patel
+id webView
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Swipr
