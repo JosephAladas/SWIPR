@@ -58,6 +58,7 @@ We applied key HCI principles:
 |--------|---------|
 | Freya Torres | Photographer struggling to find reliable collaborators for creative shoots. Prioritizes portfolio visibility and trustworthy connections. |
 | Antony Betis | Fashion stylist seeking structured ways to network with photographers and models. Needs advanced filtering and verification systems. |
+| Emma Clarkson | Freelance model who seeks reliable application with collaborations to grow her brand and streamline her creative workflow. |
 
 ---
 
